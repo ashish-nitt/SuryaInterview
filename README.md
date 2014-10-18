@@ -11,7 +11,7 @@ Constraints
 - You may use any libraries and tools of your choice.
 - You must provide a solution that can be run on a unix system (preferably OS X 10.9.5, but any unix system will do).
 - You must provide instructions on how to build and run your code.
-- Your solution must finish running in under 25 seconds (assuming a 16 Mbps down network connection). If you can get it to run in under 10 seconds, that's a bonus (hint: concurrency).
+- Your solution must finish running in under 10 seconds (assuming a 16 Mbps down network connection). Hint: concurrency.
 
 
 Submission
