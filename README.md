@@ -3,6 +3,8 @@ Goal
 
 The purpose of this problem is for the interviewer to get a quick sense of how you write code. This problem should not take you more than a couple of hours to solve.
 
+Although this is a toy problem, please make sure your solution is of production quality. You should be comfortable checking your solution into your code base. Use proper names, check for errors, etc.
+
 
 Constraints
 ===========
