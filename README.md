@@ -11,7 +11,7 @@ Constraints
 
 - Your solution must be written in either Python or Java.
 - You may use any libraries and tools of your choice.
-- You must provide a solution that can be run on a unix system (preferably OS X 10.9.5, but any unix system will do).
+- You must provide a solution that can be run on a unix system (preferably OS X 10.10, but any unix system will do).
 - You must provide instructions on how to build and run your code.
 
 
