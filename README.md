@@ -1,28 +1,29 @@
-Goal
-====
+# Goal
 
-The purpose of this problem is for the interviewer to get a quick sense of how you write code. This problem should not take you more than a couple of hours to solve.
-
-Although this is a toy problem, please make sure your solution is of production quality. You should be comfortable checking your solution into your code base. Use proper names, check for errors, etc. The whole point of this exercise is for it to be representative of how you code on the job :).
+The purpose of these exercises is for the interviewer to get a sense of how you write code and english. This shouldn’t take you more than a few hours to get done. If you already have code on Github or Bitbucket, or a blog, you can send me a link to those instead of doing these exercises.
 
 
-Constraints
-===========
+## Code exercise
 
-- Your solution must be written in either Python or Java.
+The point of this exercise is to benchmark your coding skills. Although this is a toy problem, please make sure your solution is of production quality. You should be comfortable checking your solution into your primary code base. Use proper names, check for errors, etc. Your code should be representative of how you code on the job.
+
+
+### Constraints
+
+- Your solution must be written in either Java (preferred) or Python.
 - You may use any libraries and tools of your choice.
 - You must provide a solution that can be run on a unix system (preferably OS X 10.10, but any unix system will do).
 - You must provide instructions on how to build and run your code.
 
 
-Submission
-==========
+### Submission
 
-The best way to submit a solution is to put it up on a public Github or Bitbucket repository and send me a link to it. If that's not an option (please explain why), a zip file should be sent.
+The expected submission method is a Github or Bitbucket repository. Please email me a link. If you'd like to use a private repo and give me read access, that's perfectly fine. My username on Github and Bitbucket is `gps`.
+
+If that's not an option (please explain why), email me a zip file.
 
 
-Problem
-=======
+### Problem
 
 A JSON over HTTP API is deployed at `http://surya-interview.appspot.com`. The goal is to performance test it. This involves making two requests.
 
@@ -59,7 +60,14 @@ You are expected to make each of these requests 100 times and provide the follow
 
 Please note that your solution *must be* concurrent. That is, you cannot make 200 requests in sequence. You should be making at least 10 requests at a time. Obviously, since one of the requests requires data from the previous response, you will have to do those in sequence.
 
-Contact
-=======
+
+## Writing exercise
+
+The point of this exercise is to benchmark your writing skills.
+
+Write an approximately 500 word article about something you're passionate about that's technology related. It doesn't really matter what the topic is. For instance, you can write about a [language feature](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) you like or dislike, something in the [news](http://david-smith.org/blog/2014/11/18/initial-impressions-for-watchkit/), [something](http://daringfireball.net/2014/11/native_apps_are_part_of_the_web) that you have an opinion about, etc.
+
+
+# Contact
 
 If there's anything you're uncertain about and need clarification, please feel free to reach out to me at gps@surya-soft.com.
