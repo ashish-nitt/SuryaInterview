@@ -37,7 +37,7 @@ The first request is an HTTP `GET` request to `http://surya-interview.appspot.co
 }
 ```
 
-The second request is an HTTP `POST` request to `http://surya-interview.appspot.com/message`. The post body must be JSON and must two field: `emailId` (exactly the same value as you sent before), and `uuid` (the value that was returned in the previous response). Example:
+The second request is an HTTP `POST` request to `http://surya-interview.appspot.com/message`. The post body must be JSON and must have two keys: `emailId` (exactly the same value as you sent before), and `uuid` (the value that was returned in the previous response). Example:
 
 ```
 {
