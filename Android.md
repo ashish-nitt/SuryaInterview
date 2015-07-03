@@ -29,7 +29,7 @@ Your app should start with a view that asks the user to enter an email address. 
 
 ```javascript
 {
-    "emailAddress": "<email address you got from user>"
+    "emailId": "<email address you got from user>"
 }
 ```
 
@@ -39,13 +39,13 @@ The response will contain a JSON object that looks like this:
 {
     "items": [
         {
-            "emailAddress": "john@doe.com",
+            "emailId": "john@doe.com",
             "imageUrl": "http//something.com/foo.jpg",
             "firstName": "John",
             "lastName": "Doe"
         },
         {
-            "emailAddress": "jane@doe.com",
+            "emailId": "jane@doe.com",
             "imageUrl": "http//something.com/bar.jpg",
             "firstName": "Jane",
             "lastName": "Doe"
