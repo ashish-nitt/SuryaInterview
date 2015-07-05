@@ -54,7 +54,7 @@ The response will contain a JSON object that looks like this:
 }
 ```
 
-You are to render each of these items in a row inside a `UITableView`.
+You are to cache this data locally on the device and render each of these items in a row inside a `UITableView`.
 
 
 ## Writing exercise
