@@ -10,8 +10,8 @@ The point of this exercise is to benchmark your ability to write code. Although 
 
 ### Constraints
 
-- You must submit an Android Studio project and a signed APK.
-- Your code must be written using the Android SDK in Java, targeting KitKat or later.
+- You must submit an Android Studio project and a signed APK (a self signed APK is fine).
+- Your code must be written using the Android SDK in Java, targeting API level 22 or later.
 - You may use any libraries of your choice.
 - You must provide instructions on how to build and run your code.
 
