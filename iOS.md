@@ -14,6 +14,7 @@ The point of this exercise is to benchmark your ability to write code. Although 
 - Your code can be written in either Objective-C or Swift.
 - You may use any libraries of your choice.
 - You must provide instructions on how to build and run your code.
+- The app must work in both portrait and landscape orientations.
 
 ### Submission
 
