@@ -63,7 +63,7 @@ The response will contain a JSON object that looks like this:
 }
 ```
 
-You are to cache this data locally on the device and render each of these items in a row in a list view.
+You are to cache this data locally on the device (that is, if you've gotten the data once, the next time your app is opened, it should use the locally stored data to render the view and then update data from the server in the background) and render each of these items in a row in a list view.
 
 
 # Contact
